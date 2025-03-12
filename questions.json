@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What’s the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet has the most moons in our solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Which animal is known to sleep the most, up to 20 hours a day?",
+        "options": ["Koala", "Sloth", "Bat", "Lion"],
+        "answer": "Koala"
+    },
+    {
+        "question": "Which element is diamond made of, found in pencils too?",
+        "options": ["Carbon", "Silicon", "Graphite", "Oxygen"],
+        "answer": "Carbon"
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Marie Curie"],
+        "answer": "Albert Einstein"
+    }
+]
